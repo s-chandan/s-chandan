@@ -1,4 +1,4 @@
-## Hi there I'm Chandan Sharma 👋
+## Hi I'm Chandan Sharma 👋
 
 <!--
 **s-chandan/s-chandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
